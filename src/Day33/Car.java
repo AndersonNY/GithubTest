@@ -1,6 +1,6 @@
 package Day33;
 
-public class Example {
+public class Car {
 
     // hi
 }
